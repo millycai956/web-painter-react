@@ -1,1 +1,1 @@
-![web painter screenshot](/public/Weixin Screenshot_20240329202932.png)
+![web painter screenshot](/public/Screenshot_20240329202932.png)
